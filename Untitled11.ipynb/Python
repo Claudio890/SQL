@@ -25,7 +25,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Claudio890/SQL/blob/main/Untitled11.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Claudio890/SQL/blob/main/Untitled11.ipynb/Python\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 8,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -89,7 +89,7 @@
         "id": "JIMIdGficX6D",
         "outputId": "843a9ec6-7e34-46f4-dc7d-3618177d269b"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -119,7 +119,7 @@
         "id": "Kvmi_Nbvjap2",
         "outputId": "9b94d502-1395-4002-e701-03d95580199b"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
